@@ -1,0 +1,158 @@
+[
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/video_recog.dir/includes_CXX.rsp -g -o CMakeFiles\\video_recog.dir\\src\\video_recog\\main_video_recog.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\video_recog\\main_video_recog.cpp",
+  "file": "G:/code/gitee/recog2024/src/video_recog/main_video_recog.cpp",
+  "output": "CMakeFiles/video_recog.dir/src/video_recog/main_video_recog.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/video_recog.dir/includes_CXX.rsp -g -o CMakeFiles\\video_recog.dir\\src\\video_recog\\video_recog.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\video_recog\\video_recog.cpp",
+  "file": "G:/code/gitee/recog2024/src/video_recog/video_recog.cpp",
+  "output": "CMakeFiles/video_recog.dir/src/video_recog/video_recog.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/web_recog.dir/includes_CXX.rsp -g -o CMakeFiles\\web_recog.dir\\src\\web_recog\\main_web_recog.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\web_recog\\main_web_recog.cpp",
+  "file": "G:/code/gitee/recog2024/src/web_recog/main_web_recog.cpp",
+  "output": "CMakeFiles/web_recog.dir/src/web_recog/main_web_recog.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/web_recog.dir/includes_CXX.rsp -g -o CMakeFiles\\web_recog.dir\\src\\web_recog\\web_TLS.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\web_recog\\web_TLS.cpp",
+  "file": "G:/code/gitee/recog2024/src/web_recog/web_TLS.cpp",
+  "output": "CMakeFiles/web_recog.dir/src/web_recog/web_TLS.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/web_recog.dir/includes_CXX.rsp -g -o CMakeFiles\\web_recog.dir\\src\\libBMP\\libbmp.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\libBMP\\libbmp.cpp",
+  "file": "G:/code/gitee/recog2024/src/libBMP/libbmp.cpp",
+  "output": "CMakeFiles/web_recog.dir/src/libBMP/libbmp.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/cut_half.dir/includes_CXX.rsp -g -o CMakeFiles\\cut_half.dir\\src\\cut_half\\main_cut_half.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\cut_half\\main_cut_half.cpp",
+  "file": "G:/code/gitee/recog2024/src/cut_half/main_cut_half.cpp",
+  "output": "CMakeFiles/cut_half.dir/src/cut_half/main_cut_half.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/cut_half.dir/includes_CXX.rsp -g -o CMakeFiles\\cut_half.dir\\src\\cut_half\\find_IP.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\cut_half\\find_IP.cpp",
+  "file": "G:/code/gitee/recog2024/src/cut_half/find_IP.cpp",
+  "output": "CMakeFiles/cut_half.dir/src/cut_half/find_IP.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/flow_stat.dir/includes_CXX.rsp -g -o CMakeFiles\\flow_stat.dir\\src\\flow_feature\\main_flow_fea.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\flow_feature\\main_flow_fea.cpp",
+  "file": "G:/code/gitee/recog2024/src/flow_feature/main_flow_fea.cpp",
+  "output": "CMakeFiles/flow_stat.dir/src/flow_feature/main_flow_fea.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/flow_stat.dir/includes_CXX.rsp -g -o CMakeFiles\\flow_stat.dir\\src\\flow_feature\\flow_feature.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\flow_feature\\flow_feature.cpp",
+  "file": "G:/code/gitee/recog2024/src/flow_feature/flow_feature.cpp",
+  "output": "CMakeFiles/flow_stat.dir/src/flow_feature/flow_feature.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/blist_IP.dir/includes_CXX.rsp -g -o CMakeFiles\\blist_IP.dir\\src\\blacklist\\main_blacklist.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\blacklist\\main_blacklist.cpp",
+  "file": "G:/code/gitee/recog2024/src/blacklist/main_blacklist.cpp",
+  "output": "CMakeFiles/blist_IP.dir/src/blacklist/main_blacklist.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/blist_IP.dir/includes_CXX.rsp -g -o CMakeFiles\\blist_IP.dir\\src\\blacklist\\HT_blist.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\blacklist\\HT_blist.cpp",
+  "file": "G:/code/gitee/recog2024/src/blacklist/HT_blist.cpp",
+  "output": "CMakeFiles/blist_IP.dir/src/blacklist/HT_blist.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/quic_IP.dir/includes_CXX.rsp -g -o CMakeFiles\\quic_IP.dir\\src\\udp_ip\\main_udp_ip.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\udp_ip\\main_udp_ip.cpp",
+  "file": "G:/code/gitee/recog2024/src/udp_ip/main_udp_ip.cpp",
+  "output": "CMakeFiles/quic_IP.dir/src/udp_ip/main_udp_ip.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/quic_IP.dir/includes_CXX.rsp -g -o CMakeFiles\\quic_IP.dir\\src\\udp_ip\\udp_ip.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\udp_ip\\udp_ip.cpp",
+  "file": "G:/code/gitee/recog2024/src/udp_ip/udp_ip.cpp",
+  "output": "CMakeFiles/quic_IP.dir/src/udp_ip/udp_ip.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/unknown_flow.dir/includes_CXX.rsp -g -o CMakeFiles\\unknown_flow.dir\\src\\unknown_flow\\main_unk_flow.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\unknown_flow\\main_unk_flow.cpp",
+  "file": "G:/code/gitee/recog2024/src/unknown_flow/main_unk_flow.cpp",
+  "output": "CMakeFiles/unknown_flow.dir/src/unknown_flow/main_unk_flow.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/unknown_flow.dir/includes_CXX.rsp -g -o CMakeFiles\\unknown_flow.dir\\src\\unknown_flow\\unk_flow.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\unknown_flow\\unk_flow.cpp",
+  "file": "G:/code/gitee/recog2024/src/unknown_flow/unk_flow.cpp",
+  "output": "CMakeFiles/unknown_flow.dir/src/unknown_flow/unk_flow.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/self_data.dir/includes_CXX.rsp -g -o CMakeFiles\\self_data.dir\\src\\self_data\\main_self_data.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\self_data\\main_self_data.cpp",
+  "file": "G:/code/gitee/recog2024/src/self_data/main_self_data.cpp",
+  "output": "CMakeFiles/self_data.dir/src/self_data/main_self_data.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/self_data.dir/includes_CXX.rsp -g -o CMakeFiles\\self_data.dir\\src\\self_data\\self_data.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\self_data\\self_data.cpp",
+  "file": "G:/code/gitee/recog2024/src/self_data/self_data.cpp",
+  "output": "CMakeFiles/self_data.dir/src/self_data/self_data.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/iot_device.dir/includes_CXX.rsp -g -o CMakeFiles\\iot_device.dir\\src\\iot_dev\\main_iot_device.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\iot_dev\\main_iot_device.cpp",
+  "file": "G:/code/gitee/recog2024/src/iot_dev/main_iot_device.cpp",
+  "output": "CMakeFiles/iot_device.dir/src/iot_dev/main_iot_device.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/iot_device.dir/includes_CXX.rsp -g -o CMakeFiles\\iot_device.dir\\src\\iot_dev\\iot_device.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\iot_dev\\iot_device.cpp",
+  "file": "G:/code/gitee/recog2024/src/iot_dev/iot_device.cpp",
+  "output": "CMakeFiles/iot_device.dir/src/iot_dev/iot_device.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/srv_monitor.dir/includes_CXX.rsp -g -o CMakeFiles\\srv_monitor.dir\\src\\server_monitor\\main_server_monitor.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\server_monitor\\main_server_monitor.cpp",
+  "file": "G:/code/gitee/recog2024/src/server_monitor/main_server_monitor.cpp",
+  "output": "CMakeFiles/srv_monitor.dir/src/server_monitor/main_server_monitor.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/srv_monitor.dir/includes_CXX.rsp -g -o CMakeFiles\\srv_monitor.dir\\src\\server_monitor\\server_monitor.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\server_monitor\\server_monitor.cpp",
+  "file": "G:/code/gitee/recog2024/src/server_monitor/server_monitor.cpp",
+  "output": "CMakeFiles/srv_monitor.dir/src/server_monitor/server_monitor.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/flow_recog.dir/includes_CXX.rsp -g -o CMakeFiles\\flow_recog.dir\\src\\flow_recog\\main_flow_recog.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\flow_recog\\main_flow_recog.cpp",
+  "file": "G:/code/gitee/recog2024/src/flow_recog/main_flow_recog.cpp",
+  "output": "CMakeFiles/flow_recog.dir/src/flow_recog/main_flow_recog.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/flow_recog.dir/includes_CXX.rsp -g -o CMakeFiles\\flow_recog.dir\\src\\flow_recog\\flow_recog.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\flow_recog\\flow_recog.cpp",
+  "file": "G:/code/gitee/recog2024/src/flow_recog/flow_recog.cpp",
+  "output": "CMakeFiles/flow_recog.dir/src/flow_recog/flow_recog.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/location.dir/includes_CXX.rsp -g -o CMakeFiles\\location.dir\\src\\location\\main_location.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\location\\main_location.cpp",
+  "file": "G:/code/gitee/recog2024/src/location/main_location.cpp",
+  "output": "CMakeFiles/location.dir/src/location/main_location.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/location.dir/includes_CXX.rsp -g -o CMakeFiles\\location.dir\\src\\location\\location_flow.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\location\\location_flow.cpp",
+  "file": "G:/code/gitee/recog2024/src/location/location_flow.cpp",
+  "output": "CMakeFiles/location.dir/src/location/location_flow.cpp.obj"
+},
+{
+  "directory": "G:/code/gitee/recog2024/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/location.dir/includes_CXX.rsp -g -o CMakeFiles\\location.dir\\src\\location\\path_stat.cpp.obj -c G:\\code\\gitee\\recog2024\\src\\location\\path_stat.cpp",
+  "file": "G:/code/gitee/recog2024/src/location/path_stat.cpp",
+  "output": "CMakeFiles/location.dir/src/location/path_stat.cpp.obj"
+}
+]
