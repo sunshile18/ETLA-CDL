@@ -8,7 +8,7 @@ data_list = ['hema', 'darunfa','dazhong','baiduditu',
             'foodpanda','yelp','opentable','waze',
             'googlemap','moji','haluo','yonghui','kfc']
 
-program_path = "./recog2025/build"
+program_path = "./recog2025/bin/win"
 
 #pcap path
 base_path = ""
